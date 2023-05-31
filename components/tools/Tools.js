@@ -7,7 +7,7 @@ import tool4 from "./image 321.png";
 function Tools() {
   return (
     <section className="body-font">
-      <div className="lg:w-3/4 px-5 py-24 mx-auto">
+      <div className="lg:w-4/5 px-5 py-24 mx-auto">
         <div className="flex flex-wrap w-full mb-20 flex-col items-center text-center">
           <h1 className="text-4xl font-semibold mb-6">
             54 exciting writing tools

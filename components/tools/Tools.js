@@ -7,7 +7,7 @@ import tool4 from "./image 321.png";
 function Tools() {
   return (
     <section className="body-font">
-      <div className="w-3/4 px-5 py-24 mx-auto">
+      <div className="lg:w-3/4 px-5 py-24 mx-auto">
         <div className="flex flex-wrap w-full mb-20 flex-col items-center text-center">
           <h1 className="text-4xl font-semibold mb-6">
             54 exciting writing tools
@@ -17,7 +17,7 @@ function Tools() {
             them like a human would do.
           </p>
         </div>
-        <div className="grid grid-cols-4 gap-6">
+        <div className="grid lg:grid-cols-4 gap-6">
           <div className="bg-[#282A37] w-80 h-32 flex p-6 rounded-xl">
             <Image src={tool1} alt="" className="w-10 h-10 mr-4 ml-1 mt-1" />
             <div>

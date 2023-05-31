@@ -12,7 +12,7 @@ import {
 
 function Reviews() {
   return (
-    <div className="w-3/4 px-5 py-28 mx-auto">
+    <div className="lg:w-3/4 px-5 py-28 mx-auto">
       <div className="flex flex-col text-center w-full mb-20">
         <h1 className="text-4xl font-semibold mb-4">What our customers say</h1>
         <p className="lg:w-2/3 mx-auto leading-relaxed text-lg text-gray-400">

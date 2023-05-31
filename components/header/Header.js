@@ -5,7 +5,7 @@ import logo from "./logo.png";
 function Header() {
   return (
     <header>
-      <div className="w-4/5 mx-auto flex p-5 flex-col md:flex-row items-center">
+      <div className="lg:w-4/5 mx-auto flex p-5 flex-col md:flex-row items-center">
         <Image src={logo} alt="" />
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l flex flex-wrap items-center text-base justify-center">
           <Link href={"/"} className="mr-5 text-white">

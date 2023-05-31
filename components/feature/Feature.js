@@ -7,10 +7,10 @@ function Feature() {
       <h2 className="text-center text-4xl font-bold my-24 leading-snug">
         Mixland helps you <br /> build beautiful website
       </h2>
-      <div className="w-2/3 mx-auto flex justify-center gap-16">
+      <div className="lg:w-2/3 mx-auto lg:flex justify-center gap-16">
         <nav
           aria-label="Main Nav"
-          className="w-1/4 flex flex-col space-y-2 mt-1"
+          className="lg:w-1/4 flex flex-col space-y-2 mt-1"
         >
           <li className="block rounded-lg bg-gradient-to-r from-blue-600 to-purple-600 px-6 py-4 text-base font-medium text-white">
             Blog Headlines

@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <div className="w-11/12 px-5 pt-20 mx-auto ml-32 flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
+      <div className="lg:w-11/12 px-5 pt-20 mx-auto lg:ml-32 flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
         <div className="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
             <h2 className="title-font font-semibold tracking-widest text-base mb-5">

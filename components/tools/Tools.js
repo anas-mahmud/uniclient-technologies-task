@@ -108,7 +108,9 @@ function Tools() {
           </div>
         </div>
         <div className="mt-20">
-          <p className="text-center text-base">See all 54 available tools</p>
+          <p className="text-center text-base font-semibold">
+            See all 54 available tools
+          </p>
         </div>
       </div>
     </section>
